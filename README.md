@@ -121,6 +121,8 @@ npm run db:push
 npm run dev
 
 
+---
+
 ## 📬 Collaboration & Contributions
 
 If you're excited by the vision of CyberNexus and want to:
@@ -130,5 +132,6 @@ If you're excited by the vision of CyberNexus and want to:
 
 Feel free to reach out!
 
-📩 **Email:** aishiyer2701.com 
+📩 **Email:** aishiyer2701@email.com  
 Let’s build futuristic security solutions — together. 🔐🚀
+
