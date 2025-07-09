@@ -119,3 +119,16 @@ npm run db:push
 
 # 5. Run the app
 npm run dev
+
+
+## 📬 Collaboration & Contributions
+
+If you're excited by the vision of CyberNexus and want to:
+- Contribute features or improvements
+- Collaborate on security/AI modules
+- Use CyberNexus as a base for your own project
+
+Feel free to reach out!
+
+📩 **Email:** aishiyer2701.com 
+Let’s build futuristic security solutions — together. 🔐🚀
